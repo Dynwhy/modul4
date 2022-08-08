@@ -160,6 +160,7 @@ lalu hasil folder kategori file `index.blade.php`
 
 ![image](https://user-images.githubusercontent.com/109930652/183362284-61fa8fad-6ac2-4dcd-9181-4a6e3f6c6fc5.png)
 
-selesailah modul 4
-*SEMISAL ADA YANG EROR COBA LEBIH TELITI LAGI YAA:3
-## SEKIAN TERIMA KASIH>.<
+# Selesailah modul 4
+
+## *SEMISAL ADA YANG EROR COBA LEBIH TELITI LAGI YAA:3
+# SEKIAN TERIMA KASIH>.<
